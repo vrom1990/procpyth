@@ -1,5 +1,5 @@
 ---
-title(Переносы и анимация)
+title: Переносы и анимация
 ---
 ## A New Post
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1YGczkbSojI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
