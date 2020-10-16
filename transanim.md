@@ -40,3 +40,4 @@ size(400,600) — задаёт размер холста 400 на 600
 
 ## Рефлексия
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfQxylRTaBgS8mpcmmeVuEOWHF3YyHDYcmm-AbR0GJCtbdLMA/viewform?embedded=true" width="640" height="819" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
