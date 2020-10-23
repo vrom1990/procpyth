@@ -1,3 +1,8 @@
+---
+title: "Переменные и анимация"
+
+---
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MZJgX_n1bcE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Немного теории текстом
