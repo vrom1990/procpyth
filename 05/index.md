@@ -5,6 +5,15 @@ title: Повороты и вращения
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Tw08RyFMsY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Как повернуть фигуру относительно её центра? Перенести начало координат в центр фигуры с помощью translate():
+
+<code>
+size(600,400)
+translate(300,200)
+rotate(radians(30))
+ellipse(0,0,60,20)
+</code>
+
 ## Задания по теме «Повороты и вращения»
 
 ### На статический поворот
