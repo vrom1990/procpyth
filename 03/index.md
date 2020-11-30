@@ -5,6 +5,15 @@ published: true
 # Переносы и анимация
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1YGczkbSojI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+```python
+def setup():
+	size(600,400)
+	background(0)
+def draw():
+	ellipse(random(0,600),random(0,400),30,30)
+```
+
 ## Практические задания
 
 ### На translate
